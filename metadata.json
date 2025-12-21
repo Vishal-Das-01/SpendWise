@@ -1,0 +1,8 @@
+{
+  "name": "SpendWise",
+  "description": "Daily Financial Clarity. An intelligent, privacy-first expense tracker and financial advisor. Features natural language logging, receipt scanning, and location-aware financial tips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
